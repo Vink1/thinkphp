@@ -1,1 +1,1 @@
-123
+Model_example.php为thinkphp 模板类框架，Modle为该模板的一个使用
