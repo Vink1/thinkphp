@@ -1,1 +1,4 @@
 Model_example.php为thinkphp 模板类框架，Modle为该模板的一个使用
+View_example.php为thinkphp 视图类框架，View为该模板的一个使用
+Controller_example.php为thinkphp 控制类框架
+index_example.php 为thinkphp 入口引导文件模板类框架
